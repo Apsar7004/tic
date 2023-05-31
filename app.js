@@ -66,7 +66,7 @@ function clicked(ele){
 	
 
     if((key.length)%2===0){
-		ele.innerHTML=" <img src=images/i2.png alt=a >"
+		ele.innerHTML=" <img src=i2.png alt=a >"
         key.push(ele.value);
         valx.push(ele.value);
 		let ans =find3DigitNumbers(valx);
@@ -85,7 +85,7 @@ function clicked(ele){
 		
     
 }else{
-	ele.innerHTML=" <img src=images/i1.png alt=a >"
+	ele.innerHTML=" <img src=i1.png alt=a >"
 
 
     key.push(ele.value);
