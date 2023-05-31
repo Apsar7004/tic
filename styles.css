@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url("images/pexels-moose-photos-1037992.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1{
+    color:black;
+    margin: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4rem;
+}
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 25%;
+}
+.row{
+    margin: 20px;
+
+}
+
+.btn{
+    height:40px;
+    width: 250px;
+}
+
+.adc{
+    visibility: hidden;
+
+}
+
